@@ -16,7 +16,7 @@ $ conda install cookiecutter
 ## To create a new project using this template:
 
 ```bash
-cookicutter https://github.com/ailyncr/cookie-cutter-personal
+cookiecutter https://github.com/ailyncr/cookie-cutter-personal
 ```
 ## Directory structure
 
